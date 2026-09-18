@@ -1,7 +1,7 @@
 # My Progress Tracker 🚀
 
-![Streak](https://img.shields.io/badge/streak-117%20days-orange)
-![Days](https://img.shields.io/badge/active%20days-179-blue)
+![Streak](https://img.shields.io/badge/streak-118%20days-orange)
+![Days](https://img.shields.io/badge/active%20days-180-blue)
 
 This repository tracks my daily coding activity automatically.
 
